@@ -40,7 +40,7 @@ chmod +x ~/.openclaw/skills/project-manager/scripts/*.py
 ```bash
 # 1. 初始化项目
 cd ~/.openclaw/skills/project-manager/scripts
-python task_split.py "清北招聘项目突破" "2026-03-12至2026-03-31" "庄凯芸,王恂"
+python task_split.py "清北招聘项目突破" "2026-03-12至2026-03-31" "xx、xx"
 
 # 2. 查看项目进度
 python progress_tracker.py show <项目ID>
